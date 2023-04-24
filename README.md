@@ -5,8 +5,7 @@
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
-    - [Key Features](#key-features)
-- [🚀 Live Demo](#live-demo)    
+    - [Key Features](#key-features)   
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -60,11 +59,6 @@ Math Magician is a user-friendly calculator application that is designed to faci
 - **[Basic Arithmetic Operations]**
 - **[Easy to Use]**
 - **[Cross-Platform Compatibility]**
-
-
-## 🚀 Live Demo <a name="live-demo"></a>
-Coming Soon
-
 
 ## 💻 Getting Started <a name="getting-started"></a>
 ### Prerequisites

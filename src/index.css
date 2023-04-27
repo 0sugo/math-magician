@@ -37,7 +37,6 @@ body {
 }
 
 .digits {
-  list-style: none;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr;
   gap: 1px;
@@ -45,9 +44,9 @@ body {
   margin-top: 0;
 }
 
-li {
-  /* column-span: 1; */
+button {
   text-align: center;
+  border: none;
   padding: 10px;
   background: rgb(194, 194, 194);
 }

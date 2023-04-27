@@ -1,4 +1,6 @@
 import Button from './Button';
+import Calculate from '../logic/Calculate';
+import Operate from '../logic/Operate';
 
 export default function Calculator() {
   return (

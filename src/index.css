@@ -59,9 +59,9 @@ button {
 .operations {
   background-color: #ffa500;
 }
-.displayed-quote{
+
+.displayed-quote {
   font-style: italic;
   width: 80%;
   margin: 30px auto;
-
 }

@@ -62,6 +62,7 @@ button {
 
 .displayed-quote {
   font-style: italic;
-  width: 80%;
+  width: 60%;
   margin: 30px auto;
+  text-align: center;
 }

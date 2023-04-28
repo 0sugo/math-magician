@@ -59,3 +59,10 @@ button {
 .operations {
   background-color: #ffa500;
 }
+
+.displayed-quote {
+  font-style: italic;
+  width: 60%;
+  margin: 30px auto;
+  text-align: center;
+}

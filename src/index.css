@@ -62,9 +62,10 @@ button {
 
 .displayed-quote {
   font-style: italic;
-  width: 60%;
+  width: 70%;
   margin: 30px auto;
   text-align: center;
+  margin: 30% auto;
 }
 .main-nav{
   display: flex;
@@ -89,4 +90,12 @@ nav a{
 nav a.active {
   text-decoration: none;
   font-weight: bold;
+}
+.home-text{
+  text-align: center;
+  padding: 12%;
+  letter-spacing: 0.03em;
+  line-height: 24px;
+  font-weight: 500;
+  font-size: 20px;
 }

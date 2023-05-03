@@ -1,6 +1,6 @@
 const Home = () => (
   <div>
-    <p>
+    <p className="home-text">
       The history of mathematics deals with the origin of discoveries
       in mathematics and the mathematical methods and notation of the past.
       Before the modern age and the worldwide spread of knowledge,

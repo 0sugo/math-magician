@@ -66,8 +66,25 @@ button {
   margin: 30px auto;
   text-align: center;
 }
+.main-nav{
+  display: flex;
+  justify-content: space-between;
+  margin-right: 5%;
+
+}
+nav {
+  display: flex;
+  justify-content: space-between;
+  font-size: 19px;
+  padding: 25px;
+  align-items: center;
+
+}
 nav a{
-  margin-right: 20px;
+  padding: 5px;
+  text-decoration: none;
+  color: black;
+  margin-right:5%;
 }
 nav a.active {
   text-decoration: none;

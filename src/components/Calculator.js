@@ -7,6 +7,7 @@ export default function Calculator() {
 
   return (
     <main className="combined">
+      <p>Let&apos;s do dome maths!!</p>
       <div className="display">{show.next || show.total || 0 }</div>
       <Button fetcher={(e) => {
         const valueClicked = e.target.innerHTML;

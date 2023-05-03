@@ -35,7 +35,6 @@ body {
   width: 50%;
   margin: 30px auto;
   font-size: 25px;
-
 }
 
 .digits {
@@ -65,35 +64,37 @@ button {
 .displayed-quote {
   font-style: italic;
   width: 70%;
-  margin: 30px auto;
   text-align: center;
   margin: 30% auto;
 }
-.main-nav{
+
+.main-nav {
   display: flex;
   justify-content: space-between;
   margin-right: 5%;
-
 }
+
 nav {
   display: flex;
   justify-content: space-between;
   font-size: 19px;
   padding: 25px;
   align-items: center;
-
 }
-nav a{
+
+nav a {
   padding: 5px;
   text-decoration: none;
   color: black;
-  margin-right:5%;
+  margin-right: 5%;
 }
+
 nav a.active {
   text-decoration: none;
   font-weight: bold;
 }
-.home-text{
+
+.home-text {
   text-align: center;
   padding: 13%;
   letter-spacing: 0.03em;
@@ -101,6 +102,7 @@ nav a.active {
   font-weight: 500;
   font-size: 20px;
 }
+
 .let-us {
   padding-bottom: 10px;
   font-size: 18px;

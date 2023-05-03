@@ -32,8 +32,9 @@ body {
 .combined {
   display: flex;
   flex-direction: column;
-  width: 60%;
+  width: 50%;
   margin: 30px auto;
+  font-size: 25px;
 }
 
 .digits {
@@ -47,7 +48,7 @@ body {
 button {
   text-align: center;
   border: none;
-  padding: 10px;
+  padding: 30px;
   background: rgb(194, 194, 194);
 }
 
@@ -62,7 +63,47 @@ button {
 
 .displayed-quote {
   font-style: italic;
-  width: 60%;
-  margin: 30px auto;
+  width: 70%;
   text-align: center;
+  margin: 30% auto;
+}
+
+.main-nav {
+  display: flex;
+  justify-content: space-between;
+  margin-right: 5%;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  font-size: 19px;
+  padding: 25px;
+  align-items: center;
+}
+
+nav a {
+  padding: 5px;
+  text-decoration: none;
+  color: black;
+  margin-right: 5%;
+}
+
+nav a.active {
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.home-text {
+  text-align: center;
+  padding: 13%;
+  letter-spacing: 0.03em;
+  line-height: 30px;
+  font-weight: 500;
+  font-size: 20px;
+}
+
+.let-us {
+  padding-bottom: 10px;
+  font-size: 18px;
 }

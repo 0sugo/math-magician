@@ -61,8 +61,10 @@ Math Magician is a user-friendly calculator application that is designed to faci
 - **[Easy to Use]**
 - **[Cross-Platform Compatibility]**
 
+
 ## 🚀 Live Demo <a name="live-demo"></a>
 - click to see [Demo](https://math-magician-2bon.onrender.com)
+
 ## 💻 Getting Started <a name="getting-started"></a>
 ### Prerequisites
 Understand HTML/CSS and JavaScript

@@ -24,7 +24,7 @@ Math Magician is a user-friendly calculator application that is designed to faci
 ## 🛠 Built With  <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
-                  https://math-magician-2bon.onrender.com
+
 <details>
   <summary>Client</summary>
   <ul>
@@ -61,8 +61,8 @@ Math Magician is a user-friendly calculator application that is designed to faci
 - **[Easy to Use]**
 - **[Cross-Platform Compatibility]**
 
-## 🛠 Built With  <a name="built-with"></a>
-
+## 🚀 Live Demo <a name="live-demo"></a>
+- click to see [Demo](https://math-magician-2bon.onrender.com)
 ## 💻 Getting Started <a name="getting-started"></a>
 ### Prerequisites
 Understand HTML/CSS and JavaScript

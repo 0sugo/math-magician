@@ -23,7 +23,7 @@ Math Magician is a user-friendly calculator application that is designed to faci
 ## 🛠 Built With  <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
-
+                  https://math-magician-2bon.onrender.com
 <details>
   <summary>Client</summary>
   <ul>
